@@ -1,11 +1,11 @@
 {
-  "Name": "Sushmita",
-  "Title": "Computer Science Geek, AR Enthusiast, Game Dev Lover",
+  "Name": "Sushmita Pythonista",
+  "Title": "Computer Science Geek, Django Developer, Everything Python",
   "ProfilePic": "https://pbs.twimg.com/profile_images/1363116987019268101/nPHbZ2ql.jpg",
   "About": {
-    "Location": "Delhi, India",
+    "Location": "New Delhi, Delhi, India",
     "Phone": "+91 987 654 3210",
-    "Email": "sushmita@gmail.com",
+    "Email": "sushmita@sushmita.com",
     "Description": "Hello World..."
   },
   "Education": [
