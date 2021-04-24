@@ -1,10 +1,11 @@
 import React from "react";
+import Nav from "./Nav";
 
 const App = () => {
   return (
-    <div className="App">
-      <p>Hello Skills Nights!</p>
-    </div>
+    <>
+      <Nav />
+    </>
   );
 };
 
