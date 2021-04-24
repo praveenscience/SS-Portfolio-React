@@ -1,4 +1,64 @@
 {
   "Name": "Sushmita",
-  "ProfilePic": "https://pbs.twimg.com/profile_images/1363116987019268101/nPHbZ2ql.jpg"
+  "Title": "Computer Science Geek, AR Enthusiast, Game Dev Lover",
+  "ProfilePic": "https://pbs.twimg.com/profile_images/1363116987019268101/nPHbZ2ql.jpg",
+  "About": {
+    "Location": "Delhi, India",
+    "Phone": "+91 987 654 3210",
+    "Email": "sushmita@gmail.com",
+    "Description": "Hello World..."
+  },
+  "Education": [
+    {
+      "Degree": "Bachelors of Technology",
+      "Branch": "Computer Science",
+      "University": "Anna University",
+      "Description": "Bachelors of Technology in Computer Science Technology from Anna University and got an A++ so far...",
+      "GPA": "TBD",
+      "Dates": "Aug 2019 to Present"
+    }
+  ],
+  "Experience": [
+    {
+      "Role": "Company 2 Role",
+      "Company": "Company 2 Name",
+      "Description": "Company 2 Description",
+      "Dates": "Jan 2020 to Present"
+    },
+    {
+      "Role": "Company 1 Role",
+      "Company": "Company 1 Name",
+      "Description": "Company 1 Description",
+      "Dates": "Jun 2019 to Dec 2019"
+    }
+  ],
+  "Socials": {
+    "LinkedIn": "https://www.linkedin.com/in/17sushmita/",
+    "Instagram": "https://www.instagram.com/17sushmita/",
+    "Twitter": "https://twitter.com/17sushmita"
+  },
+  "Skills": {
+    "Programming": [
+      "html5",
+      "css3-alt",
+      "js-square",
+      "angular",
+      "react",
+      "node-js",
+      "sass",
+      "less",
+      "wordpress",
+      "gulp",
+      "grunt",
+      "npm"
+    ],
+    "Workflow": [
+      "Mobile-First, Responsive Design",
+      "Cross Browser Testing &amp; Debugging",
+      "Cross Functional Teams",
+      "Agile Development &amp; Scrum"
+    ]
+  },
+  "Interests": ["Something...", "Some more thing..."],
+  "Awards": ["First Cup", "First Cup"]
 }
