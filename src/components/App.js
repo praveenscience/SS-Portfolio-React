@@ -1,13 +1,11 @@
 import React from "react";
+import Data from "../constants/Data.json";
 import Nav from "./Nav";
 
 const App = () => {
   return (
     <>
-      <Nav
-        Name="Sushmita"
-        ProfilePic="https://pbs.twimg.com/profile_images/1363116987019268101/nPHbZ2ql.jpg"
-      />
+      <Nav Name={Data.Name} ProfilePic={Data.ProfilePic} />
     </>
   );
 };
