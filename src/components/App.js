@@ -7,7 +7,7 @@ const App = () => {
   return (
     <>
       <Nav Name={Data.Name} ProfilePic={Data.ProfilePic} />
-      <PageContent />
+      <PageContent Data={Data} />
     </>
   );
 };
